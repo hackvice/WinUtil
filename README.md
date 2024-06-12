@@ -1,2 +1,2 @@
 # WinUtil
-Shortcut
+Shortcut for CTT Util
